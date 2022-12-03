@@ -6,6 +6,9 @@ We were presented with two data files, which contained information for ride shar
    ### Findings
 After performing analysis it was clear that urban areas thrived, even though their Average fare per ride were cheaper, total volume brought more revenues. It also became operant that rural areas brought less revenues . Overal it was less rides and less drivers available.
 
+![PyBer_fare_summary](https://user-images.githubusercontent.com/116606765/205422328-cefe2695-1d1f-45af-8128-19792e2be8a6.png)
+
+
   ## Conclusion
 Rideshare companies always perform better in urban areas, where having car is more expensive to keep and to park, so ppl opt for rental/rideshare/Uber type business.
 The reasons for rural areas to have less popularity for such services are:
